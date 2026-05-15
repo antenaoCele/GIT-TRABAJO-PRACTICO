@@ -18,8 +18,13 @@ body {
 }
 
 button {
-  background: #6c63ff;
+  background: hotpink;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 15px 25px;
+}
+
+button:hover {
+  background-color: #b50959;
+  cursor: pointer;
 }
